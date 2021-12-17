@@ -4,6 +4,8 @@
 
 # A Whale off the Portfolio
 
+### Background: Harold's company has been investing in algorithmic trading strategies. Some of the investment managers love them, some hate them, but they all think their way is best. This project is to help him determine which portfolio is performing the best across multiple areas: volatility, returns, risk, and Sharpe ratios.
+
 
 ### Portfolio Analysis 
 
